@@ -1,0 +1,8 @@
+---
+- name: Test my own module
+  hosts: localhost
+  tasks:
+    - name: Call my own module
+      my_own_module:
+        path: /tmp/test_playbook.txt
+        content: test_content_playbook

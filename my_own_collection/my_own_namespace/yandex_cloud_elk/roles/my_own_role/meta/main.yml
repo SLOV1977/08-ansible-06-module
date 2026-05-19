@@ -1,0 +1,27 @@
+galaxy_info:
+  role_name: my_own_role
+  namespace: my_own_namespace
+  author: Alexander Rakhmanov (SLOV1977)
+  description: Ansible-роль для запуска my_own_module
+  company: Netology
+
+  license: MIT
+
+  min_ansible_version: 2.1
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - noble
+        - jammy
+        - focal
+    - name: Debian
+      versions:
+        - bookworm
+        - bullseye
+        - buster
+
+  galaxy_tags:
+    - my_own_role
+
+dependencies: []
