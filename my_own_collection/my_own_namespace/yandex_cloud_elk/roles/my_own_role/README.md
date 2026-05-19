@@ -26,4 +26,4 @@ MIT
 Информация об авторе
 --------------------
 
-SLOV1977
+Alexander Rakhmanov (SLOV1977)
