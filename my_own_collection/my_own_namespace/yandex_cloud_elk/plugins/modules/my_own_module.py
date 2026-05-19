@@ -10,9 +10,9 @@ import os.path
 
 DOCUMENTATION = r'''
 ---
-module: my_test
+module: my_own_module
 
-short_description: This is my test module
+short_description: This is my own module
 
 # If this is part of a collection, you need to use semantic versioning,
 # i.e. the version is of the form "2.5.0" and not "2.4".
@@ -35,7 +35,7 @@ extends_documentation_fragment:
     - my_namespace.my_collection.my_doc_fragment_name
 
 author:
-    - SLOV1977
+    - Alexander Rakhmanov (SLOV1977)
 '''
 
 EXAMPLES = r'''
