@@ -167,7 +167,7 @@ if __name__ == '__main__':
 **Шаг 4.** Проверьте module на исполняемость локально.
 
 ---
-![Шаг 4](https://github.com/SLOV1977/08-ansible-06-module/blob/main/img/001.png)
+![Шаг 4](https://github.com/SLOV1977/08-ansible-06-module/tree/main/img/001.png)
 
 ![Шаг 4](img/001.png)
 
@@ -184,7 +184,7 @@ if __name__ == '__main__':
 **Шаг 6.** Проверьте через playbook на идемпотентность.
 
 ---
-![Шаг 6](https://github.com/SLOV1977/08-ansible-06-module/blob/main/img/002.png)
+![Шаг 6](https://github.com/SLOV1977/08-ansible-06-module/tree/main/img/002.png)
 
 ![Шаг 6](img/002.png)
 ---
@@ -218,7 +218,7 @@ if __name__ == '__main__':
 **Шаг 15.** Установите collection из локального архива: `ansible-galaxy collection install <archivename>.tar.gz`.
 
 ---
-![Шаг 15](https://github.com/SLOV1977/08-ansible-06-module/blob/main/img/003.png)
+![Шаг 15](https://github.com/SLOV1977/08-ansible-06-module/tree/main/img/003.png)
 
 ![Шаг 15](img/003.png)
 ---
@@ -226,7 +226,7 @@ if __name__ == '__main__':
 **Шаг 16.** Запустите playbook, убедитесь, что он работает.
 
 ---
-![Шаг 16](https://github.com/SLOV1977/08-ansible-06-module/blob/main/img/004.png)
+![Шаг 16](https://github.com/SLOV1977/08-ansible-06-module/tree/main/img/004.png)
 
 ![Шаг 16](img/004.png)
 ---
